@@ -12,7 +12,7 @@ All these steps should take less than 20 minutes!
 
 ## Table of contents
 
-[1. Installation](./1_installation.md)
-[2. Create your first API](./2_first_api.md)
-[3. Put some code in your API](./3_second_api.md)
-[4. Monitor your application](./4_monitoring.md)
+1. [Installation](./1_installation.md)
+2. [Create your first API](./2_first_api.md)
+3. [Put some code in your API](./3_second_api.md)
+4. [Monitor your application](./4_monitoring.md)
