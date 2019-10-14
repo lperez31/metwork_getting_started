@@ -4,9 +4,9 @@
 
 ### Installation of mfbase
 
-You may need a database for your applications. If you don't have a friend who is expert in database administration, you have two choices:
+If you need a database for your application, and if you don't have a friend who is expert in database administration, you have two choices:
 
-1. Use sqlite. But has many limitations.
+1. Use sqlite. But it has many limitations.
 2. Spend hours understanding how to install and configure a database.
 
 With MetWork Framework, you now have a third option: use the mfbase module.
