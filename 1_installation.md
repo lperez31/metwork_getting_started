@@ -2,7 +2,9 @@
 
 ## Installation
 
-For this tutorial, we are going to start with a fresh CentOS 7 VM. If it's not a fresh CentOS, it should also work of course.
+For this tutorial, we are going to start with a fresh CentOS 7 virtual machine. The virtual machine should have at least 6GB RAM and 10GB disk. MetWork Framework can run with much less RAM but we are going to do a full install, including administration tools.
+
+Your virtual machine should have access to the Internet. On a CentOS VM, you might need to activate the Internet access from 'Applications / System tools / Settings / Network'.
 
 First, register the MetWork Framework stable repository. Login as root, copy the following command and paste it in a terminal.
 

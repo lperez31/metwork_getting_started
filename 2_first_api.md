@@ -21,7 +21,7 @@ Let's create our first api. In MetWork Framework, we put our code in 'plugins'. 
 When we installed mfserv module, the installer has created a 'mfserv' user. Let's login as mfserv, and then create our plugin. We will call our plugin 'hello':
 
 ``` bash
-su mfserv
+su - mfserv
 cd ~
 bootstrap_plugin.py create hello
 ```
