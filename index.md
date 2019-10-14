@@ -16,3 +16,4 @@ All these steps should take less than 20 minutes!
 2. [Create your first API](./2_first_api.md)
 3. [Put some code in your API](./3_second_api.md)
 4. [Monitor your application](./4_monitoring.md)
+5. [Create a database](./5_database.md)
