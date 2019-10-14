@@ -54,7 +54,7 @@ Then release the plugin:
 
 ``` bash
 # As mfbase user
-cd foo
+cd ~/foo
 make release
 ```
 
@@ -123,11 +123,12 @@ And add a line to write something in the database, just after `res.send...`:
     ...
 ```
 
-Of course, this SQL query is dirty! This is just for the demo. I'm sure you will write better code in your apps!
+Of course, this is quick and dirty code! This is just for the demo. I'm sure you will write better code in your apps!
 
 Before running this code, we have to install the 'pg' (postgresql) library for nodejs. This is very easy:
 
 ``` bash
+# As mfserv user
 cd ~/tutorial
 # In the current version of MetWork, npm is not loaded by default. This will be fixed in next version. Thus load the MetWork package containing npm.
 layer_load nodejs@mfext
