@@ -138,7 +138,15 @@ npm install pg
 make develop
 ```
 
-Now you can open again your browser on your API url `http://localhost:18868/tutorial?q=foobar`. I let you check that each request makes an insert into the database.
+Now you can open again your browser on your API url `http://localhost:18868/tutorial?q=foobar`. I let you check that each request makes an insert into the database:
+
+``` bash
+# As mfbase user
+su - mfbase
+psql -U plugin_foo -h localhost -p 7432 plugin_foo
+SELECT * FROM records;
+\q
+```
 
 ### Monitor your database
 
