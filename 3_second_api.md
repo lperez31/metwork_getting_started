@@ -2,6 +2,12 @@
 
 ## Put some code in your API
 
+### Before starting
+
+If something goes wrong and if you need debug information, please refer to the [debug you app section](7_debug.md).
+
+### Where is the code?
+
 The code of our API is in the plugin 'main' directory.
 
 ``` bash
