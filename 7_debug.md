@@ -1,6 +1,6 @@
 ## Debug your app
 
-You might have noticed that MetWork is configured in production mode by default. That means that it will not display any debug information to the end user.
+You might have noticed that MetWork is configured in production mode by default. That implies that it does not display any debug information to the end user.
 
 Here is an easy way to get debug information if you need it.
 

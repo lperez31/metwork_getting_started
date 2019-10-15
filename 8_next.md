@@ -1,8 +1,8 @@
 ## Where to go next?
 
-This tutorial has given you an overview of the possibilities of MetWork Framework. It should help you build robust applications.
+This tutorial has given you an overview of the possibilities of MetWork Framework. MetWork should help you build robust applications.
 
-But you still have a lot to discover. MetWork Framework has plenty of cool features that matches development, build and run needs.
+But you still have a lot to discover! MetWork Framework has plenty of cool features that matches development, build and run needs.
 
 If you want to know more:
 

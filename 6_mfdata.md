@@ -116,7 +116,7 @@ exit
 make superclean # We use the 'superclean' target to remove junk that has been created by the previous failed build
 ```
 
-Now, we are going to modify the plugin code to deal with our file. Replace the content of ~/tutodata/main.py by:
+Now, we are going to modify the plugin code to achieve our goal: insert the file contents in the database when a file arrives. Replace the content of ~/tutodata/main.py by:
 
 ``` python
 #!/usr/bin/env python3
