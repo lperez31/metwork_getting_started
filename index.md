@@ -17,3 +17,6 @@ All these steps should take less than 20 minutes!
 3. [Put some code in your API](./3_second_api.md)
 4. [Monitor your application](./4_monitoring.md)
 5. [Create a database](./5_database.md)
+6. [Tasks triggered by files >](./6_mfdata.md)
+7. [Debug your app >](./7_debug.md)
+8. [Where to go next? >](./8_next.md)
