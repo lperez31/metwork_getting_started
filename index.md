@@ -6,7 +6,7 @@ The MetWork Framework will litterally change the way you build, run and monitor 
 
 In this tutorial, we are going to take a fresh CentOS 7 VM, install MetWork Framework, build a small api with the framework. And then we will see how we can monitor this api, deploy it, connect it to a database, and create bullet proof background tasks.
 
-All these steps should take less than 20 minutes!
+All these steps should take less than an hour!
 
 [Next step: Installation >](./1_installation.md)
 
