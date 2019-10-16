@@ -23,7 +23,7 @@ Open `http://localhost:15602`in your browser, you will see the monitoring websit
 * user: admin
 * password: admin
 
-For your first login, it will ask you to change your password. Just clic on 'skip' for now.
+For your first login, it will ask you to change your password. Just click on 'skip' for now.
 
 This monitoring website will give you access to several dashboards. You can already clic on 'System Dashboard', which will give you something like this:
 
